@@ -40,7 +40,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2024 -2024"
+            date="2022 - 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -52,11 +52,11 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2022 -2024"
+            date="2022 - 2022"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Associate Software Engineer</h3>
+            <h3 className="vertical-timeline-element-title">Software Engineer Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Accenture</h4>
             <p>
               Software Development, Backend Development, API Development, Team Collaboration
